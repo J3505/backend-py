@@ -1,0 +1,5 @@
+ubicacion,precio,servicios,calificacion,fechas,distancia,piso
+Centro,100,Wifi,4.5,Festiva,5,3
+Periferia,50,Desayuno,3.0,No festiva,15,2
+Centro,120,Wifi;Piscina,4.8,Festiva,2,4
+Playa,80,Desayuno;Piscina,4.0,No festiva,20,2
